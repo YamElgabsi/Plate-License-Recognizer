@@ -1,2 +1,1 @@
-# Plate-License-Recognizer
- 
+# plate-license-recognizer
